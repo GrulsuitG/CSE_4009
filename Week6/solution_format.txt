@@ -1,7 +1,7 @@
-phase1_answer
-phase2_answer
-phase3_answer
-phase4_answer
-phase5_answer
+Why make trillions when we could make... billions?
+2 3 5 8 12 17
+4 0
+132 4
+5 115
 phase6_answer
 secret_phase_answer (optional)
