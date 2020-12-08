@@ -1,0 +1,490 @@
+Teamname: Kim Beom Jin
+Member 1: 2016025205
+Email 1: User email
+
+Rotate: Version = naive_rotate: Naive baseline implementation:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	2.4	4.8	8.5	7.8
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.6	16.5	9.7	7.7	12.1	10.5
+
+Rotate: Version = rotate: Current working version:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.0	2.1	2.3	2.9	3.4
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.3	19.4	20.1	22.6	27.8	17.8
+
+Rotate: Version = test1:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.6	1.6	1.6	1.5	2.5
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.2	25.1	29.9	42.7	37.3	25.6
+
+Rotate: Version = test2:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.5	1.5	1.6	1.8	2.6
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		10.0	26.6	28.9	35.9	36.3	25.1
+
+Rotate: Version = test3:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.0	2.0	2.0	1.9	2.3
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.3	20.4	23.1	34.8	40.4	21.7
+
+Smooth: Version = smooth: Current working version:
+Dim		32	64	128	256	512	Mean
+Your CPEs	35.7	36.6	34.8	34.9	34.6
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		19.4	19.1	20.2	20.5	20.8	20.0
+
+Smooth: Version = naive_smooth: Naive baseline implementation:
+Dim		32	64	128	256	512	Mean
+Your CPEs	35.7	35.7	35.7	35.8	34.8
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		19.5	19.5	19.7	20.0	20.8	19.9
+
+Summary of Your Best Scores:
+  Rotate: 25.6 (test1)
+  Smooth: 20.0 (smooth: Current working version)
+Teamname: Kim Beom Jin
+Member 1: 2016025205
+Email 1: User email
+
+Rotate: Version = naive_rotate: Naive baseline implementation:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.8	2.6	6.2	9.0	8.5
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.3	15.2	7.5	7.4	11.1	9.5
+
+Rotate: Version = rotate: Current working version:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.4	2.6	3.0	3.5	3.8
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		6.0	15.7	15.3	18.8	25.0	14.7
+
+Rotate: Version = test1:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	1.7	1.7	1.7	2.5
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.4	23.7	27.9	39.3	37.7	24.2
+
+Rotate: Version = test2:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.5	1.6	1.7	1.9	3.8
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.8	24.8	27.5	34.9	24.7	22.5
+
+Rotate: Version = test3:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.2	2.2	2.2	2.0	2.6
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		6.8	17.9	20.7	32.8	36.6	19.8
+
+Smooth: Version = smooth: Current working version:
+Dim		32	64	128	256	512	Mean
+Your CPEs	47.0	45.5	37.6	36.9	37.5
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		14.8	15.3	18.7	19.4	19.3	17.4
+
+Smooth: Version = naive_smooth: Naive baseline implementation:
+Dim		32	64	128	256	512	Mean
+Your CPEs	37.4	37.5	37.5	37.5	37.7
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		18.6	18.6	18.7	19.1	19.1	18.8
+
+Summary of Your Best Scores:
+  Rotate: 24.2 (test1)
+  Smooth: 18.8 (naive_smooth: Naive baseline implementation)
+Teamname: Kim Beom Jin
+Member 1: 2016025205
+Email 1: User email
+
+Rotate: Version = naive_rotate: Naive baseline implementation:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	2.6	4.5	9.0	8.8
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.5	15.5	10.3	7.3	10.8	10.1
+
+Rotate: Version = rotate: Current working version:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.5	2.6	2.6	3.0	3.6
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		5.9	15.6	17.7	22.1	26.2	15.7
+
+Rotate: Version = test1:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	1.6	1.6	1.6	2.6
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.4	24.3	28.4	40.9	36.2	24.4
+
+Rotate: Version = test2:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.6	1.6	1.7	1.9	2.7
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.5	24.5	27.6	34.3	35.0	23.8
+
+Rotate: Version = test3:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.6	1.6	1.6	1.6	2.3
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.2	25.3	29.4	40.7	41.8	25.9
+
+Smooth: Version = smooth: Current working version:
+Dim		32	64	128	256	512	Mean
+Your CPEs	43.0	42.9	41.7	34.9	35.1
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		16.2	16.3	16.8	20.5	20.6	18.0
+
+Smooth: Version = naive_smooth: Naive baseline implementation:
+Dim		32	64	128	256	512	Mean
+Your CPEs	35.0	35.0	34.9	34.9	35.1
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		19.9	20.0	20.1	20.5	20.5	20.2
+
+Summary of Your Best Scores:
+  Rotate: 25.9 (test3)
+  Smooth: 20.2 (naive_smooth: Naive baseline implementation)
+Teamname: Kim Beom Jin
+Member 1: 2016025205
+Email 1: User email
+
+Rotate: Version = naive_rotate: Naive baseline implementation:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	2.6	4.9	8.9	8.3
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.7	15.7	9.4	7.4	11.4	10.2
+
+Rotate: Version = rotate: Current working version:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.1	2.2	2.5	3.0	3.5
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.0	17.9	18.5	21.9	27.1	16.9
+
+Rotate: Version = test1:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	1.6	1.6	1.6	2.7
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.9	25.4	28.8	40.5	34.5	24.6
+
+Rotate: Version = test2:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.5	1.7	1.7	1.9	2.7
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.5	24.1	27.2	34.1	35.1	23.7
+
+Rotate: Version = test3:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.9	1.9	1.8	1.7	2.3
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.7	21.2	25.1	39.8	41.7	23.2
+
+Smooth: Version = smooth: Current working version:
+Dim		32	64	128	256	512	Mean
+Your CPEs	36.6	36.6	36.6	36.6	36.8
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		19.0	19.1	19.2	19.6	19.6	19.3
+
+Smooth: Version = naive_smooth: Naive baseline implementation:
+Dim		32	64	128	256	512	Mean
+Your CPEs	36.5	36.6	36.6	36.6	36.6
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		19.0	19.1	19.2	19.6	19.7	19.3
+
+Summary of Your Best Scores:
+  Rotate: 24.6 (test1)
+  Smooth: 19.3 (naive_smooth: Naive baseline implementation)
+Teamname: Kim Beom Jin
+Member 1: 2016025205
+Email 1: User email
+
+Rotate: Version = naive_rotate: Naive baseline implementation:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	2.5	4.7	6.9	8.2
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.9	16.1	9.9	9.6	11.5	10.9
+
+Rotate: Version = rotate: Current working version:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.1	2.2	2.5	3.0	3.5
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.0	18.4	18.4	21.6	26.9	16.9
+
+Rotate: Version = test1:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	1.6	1.6	1.6	2.5
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.7	24.5	28.5	40.7	37.9	24.8
+
+Rotate: Version = test2:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.5	1.6	1.7	1.9	2.7
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.7	24.7	28.1	35.0	35.2	24.2
+
+Rotate: Version = test3:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.9	1.8	1.9	1.7	2.2
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.9	21.7	25.0	39.6	43.0	23.6
+
+Smooth: Version = smooth: Current working version:
+Dim		32	64	128	256	512	Mean
+Your CPEs	40.6	41.7	40.5	35.8	36.0
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		17.1	16.7	17.3	20.1	20.1	18.2
+
+Smooth: Version = naive_smooth: Naive baseline implementation:
+Dim		32	64	128	256	512	Mean
+Your CPEs	35.6	35.8	35.7	33.7	35.1
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		19.5	19.5	19.6	21.3	20.5	20.1
+
+Summary of Your Best Scores:
+  Rotate: 24.8 (test1)
+  Smooth: 20.1 (naive_smooth: Naive baseline implementation)
+Teamname: Kim Beom Jin
+Member 1: 2016025205
+Email 1: User email
+
+Rotate: Version = naive_rotate: Naive baseline implementation:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	2.6	4.8	9.2	8.0
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.4	15.2	9.6	7.1	11.8	10.1
+
+Rotate: Version = rotate: Current working version:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.0	2.1	2.4	2.9	3.4
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.2	18.7	19.0	22.6	28.1	17.5
+
+Rotate: Version = test1:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.6	1.6	1.6	1.5	2.6
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.2	25.7	29.9	42.7	36.4	25.6
+
+Rotate: Version = test2:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.6	1.7	1.7	1.9	3.0
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.1	24.1	28.0	35.0	31.6	23.2
+
+Rotate: Version = test3:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.9	1.9	1.9	1.6	2.2
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.7	21.7	24.8	41.4	42.2	23.5
+
+Smooth: Version = smooth: Current working version:
+Dim		32	64	128	256	512	Mean
+Your CPEs	35.8	35.8	35.7	35.7	35.8
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		19.4	19.5	19.7	20.1	20.2	19.8
+
+Smooth: Version = naive_smooth: Naive baseline implementation:
+Dim		32	64	128	256	512	Mean
+Your CPEs	35.6	35.8	33.2	35.7	34.9
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		19.5	19.5	21.1	20.1	20.7	20.2
+
+Summary of Your Best Scores:
+  Rotate: 25.6 (test1)
+  Smooth: 20.2 (naive_smooth: Naive baseline implementation)
+Teamname: Kim Beom Jin
+Member 1: 2016025205
+Email 1: User email
+
+Rotate: Version = naive_rotate: Naive baseline implementation:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.0	3.8	4.9	8.9	7.8
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.2	10.5	9.5	7.4	12.2	9.2
+
+Rotate: Version = rotate: Current working version:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.0	2.2	2.5	3.0	3.4
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.2	18.2	18.6	22.1	27.8	17.2
+
+Rotate: Version = test1:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	1.9	1.8	1.6	2.8
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.6	21.3	25.3	40.6	34.2	23.0
+
+Rotate: Version = test2:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.6	1.7	1.7	2.0	2.7
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.3	23.3	26.6	33.4	34.7	23.2
+
+Rotate: Version = test3:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.1	2.2	2.1	2.0	2.4
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.0	18.3	22.4	32.2	38.8	20.5
+
+Smooth: Version = smooth: Current working version:
+Dim		32	64	128	256	512	Mean
+Your CPEs	45.5	45.5	44.1	38.5	36.8
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		15.3	15.3	15.9	18.6	19.6	16.9
+
+Smooth: Version = naive_smooth: Naive baseline implementation:
+Dim		32	64	128	256	512	Mean
+Your CPEs	36.5	36.6	25.2	36.6	37.4
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		19.0	19.1	27.8	19.6	19.3	20.7
+
+Summary of Your Best Scores:
+  Rotate: 23.2 (test2)
+  Smooth: 20.7 (naive_smooth: Naive baseline implementation)
+Teamname: Kim Beom Jin
+Member 1: 2016025205
+Email 1: User email
+
+Rotate: Version = naive_rotate: Naive baseline implementation:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	2.5	4.6	8.5	7.7
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.8	16.0	10.1	7.8	12.3	10.7
+
+Rotate: Version = rotate: Current working version:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.0	2.2	2.4	2.9	3.4
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.2	18.6	19.4	22.5	27.9	17.5
+
+Rotate: Version = test1:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.6	1.6	1.6	1.5	2.5
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.1	25.7	29.9	42.7	37.2	25.7
+
+Rotate: Version = test2:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.5	1.6	1.6	1.9	2.6
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.7	24.8	28.3	35.0	36.4	24.4
+
+Rotate: Version = test3:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.6	1.6	1.6	1.6	2.2
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.2	25.3	29.4	40.6	43.5	26.1
+
+Smooth: Version = smooth: Current working version:
+Dim		32	64	128	256	512	Mean
+Your CPEs	34.9	38.5	40.5	34.9	35.5
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		19.9	18.1	17.3	20.6	20.3	19.2
+
+Smooth: Version = naive_smooth: Naive baseline implementation:
+Dim		32	64	128	256	512	Mean
+Your CPEs	35.7	35.8	35.7	35.2	35.6
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		19.5	19.5	19.6	20.4	20.3	19.8
+
+Summary of Your Best Scores:
+  Rotate: 26.1 (test3)
+  Smooth: 19.8 (naive_smooth: Naive baseline implementation)
+Teamname: Kim Beom Jin
+Member 1: 2016025205
+Email 1: User email
+
+Rotate: Version = naive_rotate: Naive baseline implementation:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	2.5	5.1	8.8	7.7
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.4	15.9	9.1	7.5	12.2	10.2
+
+Rotate: Version = rotate: Current working version:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.0	2.1	2.4	2.9	3.8
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.3	19.0	19.2	22.4	25.2	17.2
+
+Rotate: Version = test1:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.0	1.9	1.8	1.6	2.5
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.4	21.3	25.2	41.6	38.1	22.9
+
+Rotate: Version = test2:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	1.8	1.7	1.9	2.6
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.8	22.6	27.1	34.1	36.9	23.3
+
+Rotate: Version = test3:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.9	1.9	1.8	1.7	2.2
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.7	20.9	25.9	39.8	42.5	23.4
+
+Smooth: Version = smooth: Current working version:
+Dim		32	64	128	256	512	Mean
+Your CPEs	36.7	36.6	36.6	36.6	34.8
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		19.0	19.1	19.2	19.6	20.8	19.5
+
+Smooth: Version = naive_smooth: Naive baseline implementation:
+Dim		32	64	128	256	512	Mean
+Your CPEs	34.7	34.8	34.8	34.7	34.3
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		20.1	20.1	20.2	20.7	21.0	20.4
+
+Summary of Your Best Scores:
+  Rotate: 23.4 (test3)
+  Smooth: 20.4 (naive_smooth: Naive baseline implementation)
+Teamname: Kim Beom Jin
+Member 1: 2016025205
+Email 1: User email
+
+Rotate: Version = naive_rotate: Naive baseline implementation:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	2.5	4.6	8.9	7.7
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.6	16.2	10.1	7.4	12.2	10.5
+
+Rotate: Version = rotate: Current working version:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	2.0	2.1	2.4	2.9	3.9
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		7.4	19.1	19.4	22.6	24.2	17.2
+
+Rotate: Version = test1:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.7	1.6	1.7	2.0	2.6
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		8.9	24.9	28.1	33.5	36.2	23.7
+
+Rotate: Version = test2:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.6	1.6	1.7	1.9	2.6
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.4	24.4	27.8	35.1	36.5	24.1
+
+Rotate: Version = test3:
+Dim		64	128	256	512	1024	Mean
+Your CPEs	1.6	1.6	1.6	1.6	2.5
+Baseline CPEs	14.7	40.1	46.4	65.9	94.5
+Speedup		9.2	25.2	29.3	40.6	37.8	25.4
+
+Smooth: Version = smooth: Current working version:
+Dim		32	64	128	256	512	Mean
+Your CPEs	50.1	50.1	50.0	40.8	36.6
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		13.9	13.9	14.0	17.6	19.8	15.7
+
+Smooth: Version = naive_smooth: Naive baseline implementation:
+Dim		32	64	128	256	512	Mean
+Your CPEs	36.6	36.6	36.6	36.7	36.6
+Baseline CPEs	695.0	698.0	702.0	717.0	722.0
+Speedup		19.0	19.0	19.2	19.5	19.7	19.3
+
+Summary of Your Best Scores:
+  Rotate: 25.4 (test3)
+  Smooth: 19.3 (naive_smooth: Naive baseline implementation)
